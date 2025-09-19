@@ -113,8 +113,8 @@ Annotafy is a next-generation, open platform for collaborative data collection a
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/annotafy
-cd fs-upload-app
+git clone https://github.com/din1376/annotafy
+cd annotafy
 ```
 
 2. Install dependencies:
